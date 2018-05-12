@@ -1,0 +1,29 @@
+_repo: Istar-of-BabylonA-Phantasy_38710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Margaret Horton
+    aliases:
+    - Williams, Robert Dolly
+    - Black, Margaret Horton
+    birthdate: 1881
+    deathdate: 1911
+    gutenberg_agent_id: '25023'
+    url: http://www.gutenberg.org/2009/agents/25023
+description: ''
+gutenberg_issued: '2012-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+title: 'Istar of Babylon: A Phantasy'
+url: http://www.gutenberg.org/ebooks/38710
